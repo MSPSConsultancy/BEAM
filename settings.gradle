@@ -1,0 +1,2 @@
+rootProject.name = 'BEAM'
+include ":api", ":common", ":util" ,":jsmodule",":beamcore"

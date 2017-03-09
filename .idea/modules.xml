@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/406178573/BEAM.iml" filepath="$PROJECT_DIR$/.idea/modules/406178573/BEAM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/406178573/BEAM_main.iml" filepath="$PROJECT_DIR$/.idea/modules/406178573/BEAM_main.iml" group="BEAM" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/406178573/BEAM_test.iml" filepath="$PROJECT_DIR$/.idea/modules/406178573/BEAM_test.iml" group="BEAM" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/589714456/api.iml" filepath="$PROJECT_DIR$/.idea/modules/589714456/api.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/589714456/api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/589714456/api_main.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/589714456/api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/589714456/api_test.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/589714463/app.iml" filepath="$PROJECT_DIR$/.idea/modules/589714463/app.iml" group="app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/589714463/app_main.iml" filepath="$PROJECT_DIR$/.idea/modules/589714463/app_main.iml" group="app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/589714463/app_test.iml" filepath="$PROJECT_DIR$/.idea/modules/589714463/app_test.iml" group="app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2133264528/beamcore.iml" filepath="$PROJECT_DIR$/.idea/modules/2133264528/beamcore.iml" group="beamcore" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2133264528/beamcore_main.iml" filepath="$PROJECT_DIR$/.idea/modules/2133264528/beamcore_main.iml" group="beamcore" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2133264528/beamcore_test.iml" filepath="$PROJECT_DIR$/.idea/modules/2133264528/beamcore_test.iml" group="beamcore" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1823680301/common.iml" filepath="$PROJECT_DIR$/.idea/modules/1823680301/common.iml" group="common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1823680301/common_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1823680301/common_main.iml" group="common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1823680301/common_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1823680301/common_test.iml" group="common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jsmodule.iml" filepath="$PROJECT_DIR$/.idea/modules/jsmodule.iml" group="jsmodule" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jsmodule_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jsmodule_main.iml" group="jsmodule" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jsmodule_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jsmodule_test.iml" group="jsmodule" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1101878724/util.iml" filepath="$PROJECT_DIR$/.idea/modules/1101878724/util.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1101878724/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1101878724/util_main.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1101878724/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1101878724/util_test.iml" group="util" />
+    </modules>
+  </component>
+</project>
